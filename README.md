@@ -69,5 +69,7 @@ int main(int argc, char* argv[])
     printf("Element a[%d]: %d\n", i, a[i]);
   }
   return 0;
+  in main
+  
   
 
